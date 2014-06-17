@@ -39,3 +39,11 @@ November 2005 – October 2006
 
 Info about job
 
+## Education ##
+
+### First Class BEng Software Engineering, University of Wales, Aberystwyth ###
+
+2001-2005
+
+Whilst at the University, Neil was a Teaching Assistant for two semesters and spent a Year in Industry at the Plymouth Marine Laboratory.
+
