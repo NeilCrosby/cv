@@ -7,6 +7,14 @@ Leader, developer, problem solver, tinkerer.
 
 Neil is a software developer and leader of developers, having led successful teams at both Amazon and the BBC. He is adept at working at scale, on international projects across multiple timezones.
 
+## Skills ##
+
+Neil has been developing websites, both on his own and within larger teams, for more than ten years. He is skilled in HTML, CSS and JavaScript, and uses PHP as his server language of choice. Recently, he has also been developing professionally in Python, Perl and C# for Silverlight, as well as making use of systems such as Amazon CloudSearch, ElasticSearch and Magento.
+
+Neil is experienced in developing within an agile scrum development, and in 2010 became a certified Scrum Master. He has led small to medium teams to successfully deliver high quality products on time.
+
+Neil has also spent time hiring developers for multiple teams, both at Amazon and the BBC.
+
 ## Key Achievements ##
 
 ### March 2014 - Released newly achitectured version of Tizaro.com ###
