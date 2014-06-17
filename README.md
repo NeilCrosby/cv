@@ -15,7 +15,7 @@ February 2014 - Current
 
 Info about job
 
-### [Amazon Instant Video](http://amazon.com/aiv) / LOVEFiLM – Technical Lead, Software Development Engineer ###
+### [Amazon Instant Video](http://amazon.com/aiv) / [LOVEFiLM](http://lovefilm.com) – Technical Lead, Software Development Engineer ###
 
 October 2011 - February 2014
 
