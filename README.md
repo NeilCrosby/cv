@@ -7,6 +7,24 @@ Leader, developer, problem solver, tinkerer.
 
 Neil is a software developer and leader of developers, having led successful teams at both Amazon and the BBC. He is adept at working at scale, on international projects across multiple timezones.
 
+## Key Achievements ##
+
+### June 2013 – Amazon Instant Video Quality of Service Monitoring ###
+
+Created an internal set of dashboards to monitor the Amazon Instant Video global players. These have been instrumental in highlighting issues with both the players themselves and upstream data providers.
+
+### October 2012 – Amazon / LOVEFiLM Integration ###
+
+Led the team of frontend developers who created amazon credentialed login and signup systems for the Kindle Fire and LOVEFiLM in the UK and Germany. This work was vital in order to allow the release of the Kindle Fire devices to launch on time in Europe.
+
+### October 2011 – BBC Homepage release ###
+
+Led a team of developers in London and Cardiff to build a brand new version of the BBC Homepage – http://bbc.co.uk - using a highly modular design, allowing for customisation both by users and by editors within the corporation.
+
+### August 2010 – Received Scrum Master certification ###
+
+### November 2006 – [Invented the Twitter @ reply](https://twitter.com/NeilCrosby/status/139513) ###
+
 ## Employment History ##
 
 ### [Tizaro Supply](http://tizaro.com) - Technical Architect ###
