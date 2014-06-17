@@ -9,6 +9,10 @@ Neil is a software developer and leader of developers, having led successful tea
 
 ## Key Achievements ##
 
+### March 2014 - Released newly achitectured version of Tizaro.com ###
+
+Amazon CloudSearch, Magento
+
 ### June 2013 – Amazon Instant Video Quality of Service Monitoring ###
 
 Created an internal set of dashboards to monitor the Amazon Instant Video global players. These have been instrumental in highlighting issues with both the players themselves and upstream data providers.
