@@ -23,7 +23,7 @@ Amazon CloudSearch, Magento
 
 ### June 2013 – Amazon Instant Video Quality of Service Monitoring ###
 
-Created an internal set of dashboards to monitor the Amazon Instant Video global players. These have been instrumental in highlighting issues with both the players themselves and upstream data providers.
+Created an internal set of dashboards to monitor the Amazon Instant Video global players. These were instrumental in highlighting issues with both the players themselves and upstream data providers.
 
 ### October 2012 – Amazon / LOVEFiLM Integration ###
 
