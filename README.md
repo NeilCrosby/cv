@@ -73,7 +73,7 @@ It was whilst working on the SearchMonkey project that Neil was promoted to Fron
 
 November 2005 – October 2006
 
-Info about job
+During Neil's time at Mintel he was lead developer of three of the group's internal websites. Each website interfaced with large data sets produced or used by various products within the company.
 
 ## Education ##
 
