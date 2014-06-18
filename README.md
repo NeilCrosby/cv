@@ -17,9 +17,9 @@ Neil has also spent time hiring developers for multiple teams, both at Amazon an
 
 ## Key Achievements ##
 
-### March 2014 - Released newly achitectured version of Tizaro.com ###
+### March 2014 - Released newly achitectured version of Tizaro.com, integrated with Amazon CloudSearch ###
 
-Amazon CloudSearch, Magento
+Integrated Amazon CloudSearch into the Magento Ecommerce Platform via a custom built integration layer, allowing customers to effectively perform faceted search across the 100,000 products in the Tizaro catalogue.
 
 ### June 2013 – Amazon Instant Video Quality of Service Monitoring ###
 
