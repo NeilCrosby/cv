@@ -83,3 +83,6 @@ During Neil's time at Mintel he was lead developer of three of the group's inter
 
 Whilst at the University, Neil was a Teaching Assistant for two semesters and spent a Year in Industry at the Plymouth Marine Laboratory.
 
+## References and Contact ##
+
+References, and further contact information available on request.
