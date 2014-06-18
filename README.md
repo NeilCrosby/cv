@@ -9,7 +9,7 @@ Neil is a software developer and leader of developers, having led successful tea
 
 ## Skills ##
 
-Neil has been developing websites, both on his own and within larger teams, for more than ten years. He is skilled in HTML, CSS and JavaScript, and uses PHP as his server language of choice. Recently, he has also been developing professionally in Python, Perl and C# for Silverlight, as well as making use of systems such as Amazon CloudSearch, ElasticSearch and Magento.
+Neil has been developing websites, both on his own and within larger teams, for more than ten years. He is skilled in HTML, CSS and JavaScript, and uses PHP as his server language of choice. Recently, he has also been developing professionally in Python, Perl and C# for Silverlight, as well as making use of systems such as Amazon CloudSearch, ElasticSearch and Magento. Recently, Neil has also been using Vagrant and Puppet to allow for easier deployment of websites to development and live environments.
 
 Neil is experienced in developing within an agile scrum development, and in 2010 became a certified Scrum Master. He has led small to medium teams to successfully deliver high quality products on time.
 
