@@ -57,7 +57,9 @@ In his final 8 months at Amazon, Neil moved across to the Web Playback team, res
 
 November 2009 – October 2011
 
-Info about job
+At the BBC Neil led a team of developers to build and release two versions of the BBC Homepage. The first was a platform move to bring the Homepage to PHP without changing functionality for users. The second was a complete rebuild, allowing the team to use the learnings from the platform move to produce a robust, customisable and maintainable system.
+
+Neil's role saw him involved at all levels of development of the page, from performing peer review of others' code, to architecting areas of the page, to being involved in decisions regarding work priorities and direction.  He directly managed a team of developers in London, and also oversaw the output of another development team in Cardiff who developed some modules for the page.
 
 ### [Yahoo!](http://yahoo.com) – Search Frontend Architect
 
