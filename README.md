@@ -43,7 +43,7 @@ Led a team of developers in London and Cardiff to build a brand new version of t
 
 February 2014 - Current
 
-Info about job
+At Tizaro, Neil joined a new team focused on moving the legacy Tizaro website and data flows to a system based around the Magento Ecommerce Platform. Within this migration, Neil was primarily focused on creating an integration layer between Magento and Amazon CloudSearch, in order to give Tizaro's customers a much higher quality of faceted search than they were able to receive via Magento itself.
 
 ### [Amazon Instant Video](http://amazon.com/aiv) / [LOVEFiLM](http://lovefilm.com) – Technical Lead, Software Development Engineer ###
 
