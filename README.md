@@ -49,7 +49,9 @@ Info about job
 
 October 2011 - February 2014
 
-Info about job
+Within Amazon and LOVEFiLM Neil fulfilled two distinct roles. The first was that of Development Lead within a group of developers tasked with integrating the front-end systems of the two companies. This integration took the form of allowing customers to sign up and login to the LOVEFiLM system with their Amazon credentials, as well as being able to use Amazon stored payment and address options. This functionality was completed on time and without defect for the UK and DE Kindle Fire launches in October 2012.
+
+In his final 8 months at Amazon, Neil moved across to the Web Playback team, responsible for worldwide Amazon video playback on the web. Within that role, Neil become proficient at writing C# for Amazon’s Global Silverlight Player. His primary role within the team, however, was to produce monitoring tools to effectively track customer experience within the player, whether this be overall quality of service, errors or features which were being AB tested.
 
 ### [BBC](http://bbc.co.uk) – Development Team Lead, BBC Homepage ###
 
