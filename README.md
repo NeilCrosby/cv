@@ -65,7 +65,9 @@ Neil's role saw him involved at all levels of development of the page, from perf
 
 October 2006 – July 2009
 
-Info about job
+Neil's role at Yahoo! took him from initially developing microsites such as “Finds of the Year”, through to joining the Search Team in mid 2007. Within search, Neil was part of a team which took the SearchMonkey product from prototype to a fully scaled product able to provide customised search results to all of Yahoo!’s search customers.
+
+It was whilst working on the SearchMonkey project that Neil was promoted to Front-End Architect for Search in Europe. His duties within this role saw him instigating various programmes of improvement, including the development of a system for Automation Front-End Testing. Neil also spoke gave technical talks on behalf of Yahoo! at public events on multiple occasions around Europe.
 
 ### [Mintel](http://mintel.com) – Graduate Analyst Developer ###
 
